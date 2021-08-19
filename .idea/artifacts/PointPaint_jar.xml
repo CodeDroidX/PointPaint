@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="PointPaint:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/PointPaint_jar</output-path>
+    <root id="archive" name="PointPaint.jar">
+      <element id="module-output" name="PointPaint" />
+    </root>
+  </artifact>
+</component>
